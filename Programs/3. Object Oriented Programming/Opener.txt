@@ -1,0 +1,1 @@
+This is an opener file that is made specifically for the purpose of file handling.
